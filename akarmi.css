@@ -1,9 +1,24 @@
+body {
+    background: #000000 url(oldal.png)  top center;
+
+}
+
 #fejlec {
-    background: #1D597B url(vitaminokborapolas.jpg) top center no-repeat fixed;
+    background: #000000 url(vitaminokborapolas.jpg)  top center no-repeat;
+    padding: 1%;
+    margin-top: 30px;
 }
 
 #cim {
-    margin
-    padding: 50px;
+    margin: 3%;
+    padding: 1% 42% 1% 42%;
     background-color: forestgreen;
+    font-size: 40px ;
+}
+
+#torzs{
+    margin: 0px 250px 0px 250px;
+    background-color: antiquewhite;
+    border:olivedrab solid 3px;
+    padding: 20px;
 }
