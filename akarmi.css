@@ -6,7 +6,7 @@ body {
 }
 
 #fejlec {
-    background: #000000 url(images.jfif)  top center no-repeat;
+    background: #000000 url(fejlec2.jpg)  top center no-repeat;
     padding: 1%;
     margin-top: 30px;
 }
@@ -25,3 +25,6 @@ body {
     padding: 20px;
 }
 
+.melerendelo {
+    
+}
